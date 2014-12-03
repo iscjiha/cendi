@@ -8,6 +8,12 @@ header{
     background-color: chocolate;
 }
 
+header h1{
+    color: #fff;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
 ul{
     color: yellow;
 }
