@@ -1,0 +1,25 @@
+commit 55de330e8ab62f88564d06ed30125fedaf98de61
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:04:22 2014 -0600
+
+    Agregando archivo de estilos
+
+commit 0ae09c49a4964aa7be8750ba7510bbc2f55563f1
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:03:25 2014 -0600
+
+    Generacion de estilos para proyecto
+
+commit 8159c55e08c4143c3cdd9cf710692b0682bf5e7e
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 18:58:41 2014 -0600
+
+    gregando archivo básico index
+    
+    Se genero el archivo de index.html con un texto de Hola Mundo
+
+commit 445a04bce6b4acffccffc5653c301d01bac750b5
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 18:56:47 2014 -0600
+
+    Enviando mi primer commit con el archivo .gitignore
