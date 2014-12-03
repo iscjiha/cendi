@@ -20,9 +20,10 @@ ul{
 }
 
 ul li{
-    width: 100px;
-    list-style: none;
+    background-color: darkseagreen;
     display: inline-block;
+    list-style: none;
+    width: 100px;
 }
 
 footer{
