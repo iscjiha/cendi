@@ -1,14 +1,84 @@
-commit 55de330e8ab62f88564d06ed30125fedaf98de61
+commit f77b2ed6e4306b0076ef953e8edf6b180e476d96
 Author: JIHA <isc.jiha@gmail.com>
-Date:   Tue Dec 2 19:04:22 2014 -0600
+Date:   Tue Dec 2 19:45:29 2014 -0600
 
-    Agregando archivo de estilos
+    Borrando espacio en hoja de estilo
 
-commit 0ae09c49a4964aa7be8750ba7510bbc2f55563f1
+commit 82ff067c142cb1ab4c53b5c5bb4da428e070ce14
+Merge: c777a43 1e85fd0
 Author: JIHA <isc.jiha@gmail.com>
-Date:   Tue Dec 2 19:03:25 2014 -0600
+Date:   Tue Dec 2 19:41:41 2014 -0600
 
-    Generacion de estilos para proyecto
+    Se reparo el background
+
+commit 1e85fd0e593cf045d7ccc1efecd930fd7fef54a0
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:39:37 2014 -0600
+
+    Poniendo color rosa gay
+
+commit c777a434778dc227485f295f0055504d865bf079
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:38:59 2014 -0600
+
+    Modificando a color morado
+
+commit 2c359e8baa3f8a7d309bfe364ec09efff35cace1
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:36:17 2014 -0600
+
+    Modificando menu
+
+commit 5257f517a5d643e7d0c2bdc9e7cfe7e1e7330cbc
+Merge: 4de5b9c a9670f3
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:29:04 2014 -0600
+
+    Merge branch 'modificar_header'
+
+commit a9670f391e51e0a227e82a7cd2f348832c18bdaf
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:27:26 2014 -0600
+
+    Modifique el header con un padding
+    
+    Se modifico el header agregando un padding
+
+commit 4de5b9c255d019b0748a745cd27d192fcaa435c0
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:25:46 2014 -0600
+
+    Cambiando el footer
+
+commit 0e08ee92f8a9ac696faa97efa6e2de92d1a39cbb
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:20:39 2014 -0600
+
+    Haciendo bonito el header
+
+commit 22ae048c459ded81498c4a2a823fefa3c9058e4d
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:16:04 2014 -0600
+
+    Agregando un poco de estilo al proyecto
+
+commit 3e4b03489c53a37fb0ae7609c872a303d1a2bd49
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:12:31 2014 -0600
+
+    Empezando diseño
+
+commit 0b9be2038211031045ee8899f603ee79c1c469ad
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:11:49 2014 -0600
+
+    Tomando proyecto
+
+commit bbe45ac9f66bf226f92a73f068499b31bf02027c
+Author: JIHA <isc.jiha@gmail.com>
+Date:   Tue Dec 2 19:07:35 2014 -0600
+
+    Regresando
 
 commit 8159c55e08c4143c3cdd9cf710692b0682bf5e7e
 Author: JIHA <isc.jiha@gmail.com>
