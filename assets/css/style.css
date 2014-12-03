@@ -1,3 +1,18 @@
 body{
     background-color: saddlebrown;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: chocolate;
+}
+
+ul{
+    color: yellow;
+}
+
+footer{
+    background-color: crimson;
+    color: #fff
 }
