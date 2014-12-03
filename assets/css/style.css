@@ -19,6 +19,12 @@ ul{
     color: yellow;
 }
 
+ul li{
+    width: 100px;
+    list-style: none;
+    display: inline-block;
+}
+
 footer{
     background-color: crimson;
     color: #fff;
